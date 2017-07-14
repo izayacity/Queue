@@ -1,3 +1,3 @@
-# GAME-230-Queue
+# Queue
 
-C++ linked list
+C++ linked list implementation of queue
